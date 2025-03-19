@@ -28,20 +28,29 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
+![alt text](Image-1.png)
+![alt text](Image-2.png) 
+![alt text](Image-3.png)
+![alt text](Image-4.png) 
+![alt text](Image-5.png) 
+![alt text](Image-6.png)
+![alt text](Image-7.png)
+![alt text](Image-8.png) 
+![alt text](Image-9.png) 
+![alt text](Image-10.png) 
+![alt text](Image-11.png) 
+![alt text](Image-12.png) 
+![alt text](Image-13.png)
+![alt text](Image-14.png) 
+![alt text](Image-15.png) 
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
+
+
+
+
+
+
+
 
 # RESULT
 The Exploratory Data Analysis on the given data set is executed successfully.
